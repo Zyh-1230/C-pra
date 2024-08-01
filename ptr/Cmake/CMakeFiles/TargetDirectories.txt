@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/ptr/Cmake/CMakeFiles/ptrTest.dir
+/Users/zhouyuhan/Desktop/c/ptr/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/ptr/Cmake/CMakeFiles/rebuild_cache.dir

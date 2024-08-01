@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/demo2/Cmake/CMakeFiles/SingleFileExample.dir
+/Users/zhouyuhan/Desktop/c/demo2/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/demo2/Cmake/CMakeFiles/rebuild_cache.dir
