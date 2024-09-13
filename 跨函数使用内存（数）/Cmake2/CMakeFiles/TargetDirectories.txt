@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/跨函数使用内存/Cmake2/CMakeFiles/create.dir
+/Users/zhouyuhan/Desktop/c/跨函数使用内存/Cmake2/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/跨函数使用内存/Cmake2/CMakeFiles/rebuild_cache.dir

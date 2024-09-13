@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/D1A/Cmake/CMakeFiles/D1A_1.dir
+/Users/zhouyuhan/Desktop/c/D1A/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/D1A/Cmake/CMakeFiles/rebuild_cache.dir

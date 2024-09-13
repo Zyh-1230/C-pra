@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/结构体变量和结构体变量指针作为函数传递的工具/Cmake/CMakeFiles/pass.dir
+/Users/zhouyuhan/Desktop/c/结构体变量和结构体变量指针作为函数传递的工具/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/结构体变量和结构体变量指针作为函数传递的工具/Cmake/CMakeFiles/rebuild_cache.dir

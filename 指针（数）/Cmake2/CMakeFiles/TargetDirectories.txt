@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/指针（数）/Cmake2/CMakeFiles/modify.dir
+/Users/zhouyuhan/Desktop/c/指针（数）/Cmake2/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/指针（数）/Cmake2/CMakeFiles/rebuild_cache.dir

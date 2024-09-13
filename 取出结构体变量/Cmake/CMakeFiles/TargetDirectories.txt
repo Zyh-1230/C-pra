@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/取出结构体变量/Cmake/CMakeFiles/retrieve.dir
+/Users/zhouyuhan/Desktop/c/取出结构体变量/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/取出结构体变量/Cmake/CMakeFiles/rebuild_cache.dir

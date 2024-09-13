@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/指针（数）/Cmake/CMakeFiles/ptr.dir
+/Users/zhouyuhan/Desktop/c/指针（数）/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/指针（数）/Cmake/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/memory_arr/Cmake/CMakeFiles/array.dir
+/Users/zhouyuhan/Desktop/c/memory_arr/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/memory_arr/Cmake/CMakeFiles/rebuild_cache.dir
