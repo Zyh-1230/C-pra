@@ -1,5 +1,5 @@
-CMakeFiles/umaf_1.dir/Users/zhouyuhan/Desktop/c/UMAF/umaf.c.o: \
-  /Users/zhouyuhan/Desktop/c/UMAF/umaf.c \
+CMakeFiles/umaf.dir/Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.o: \
+  /Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/cdefs.h \

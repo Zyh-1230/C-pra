@@ -57,10 +57,10 @@ RM = /Applications/CMake.app/Contents/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/zhouyuhan/Desktop/c/UMAF/Cmake
+CMAKE_SOURCE_DIR = /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/zhouyuhan/Desktop/c/UMAF/Cmake
+CMAKE_BINARY_DIR = /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles /Users/zhouyuhan/Desktop/c/UMAF/Cmake//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -117,41 +117,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named umaf_1
+# Target rules for targets named umaf
 
 # Build rule for target.
-umaf_1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 umaf_1
-.PHONY : umaf_1
+umaf: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 umaf
+.PHONY : umaf
 
 # fast build rule for target.
-umaf_1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf_1.dir/build.make CMakeFiles/umaf_1.dir/build
-.PHONY : umaf_1/fast
+umaf/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf.dir/build.make CMakeFiles/umaf.dir/build
+.PHONY : umaf/fast
 
-Users/zhouyuhan/Desktop/c/UMAF/umaf.o: Users/zhouyuhan/Desktop/c/UMAF/umaf.c.o
-.PHONY : Users/zhouyuhan/Desktop/c/UMAF/umaf.o
+Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.o: Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.o
+.PHONY : Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.o
 
 # target to build an object file
-Users/zhouyuhan/Desktop/c/UMAF/umaf.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf_1.dir/build.make CMakeFiles/umaf_1.dir/Users/zhouyuhan/Desktop/c/UMAF/umaf.c.o
-.PHONY : Users/zhouyuhan/Desktop/c/UMAF/umaf.c.o
+Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf.dir/build.make CMakeFiles/umaf.dir/Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.o
+.PHONY : Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.o
 
-Users/zhouyuhan/Desktop/c/UMAF/umaf.i: Users/zhouyuhan/Desktop/c/UMAF/umaf.c.i
-.PHONY : Users/zhouyuhan/Desktop/c/UMAF/umaf.i
+Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.i: Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.i
+.PHONY : Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.i
 
 # target to preprocess a source file
-Users/zhouyuhan/Desktop/c/UMAF/umaf.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf_1.dir/build.make CMakeFiles/umaf_1.dir/Users/zhouyuhan/Desktop/c/UMAF/umaf.c.i
-.PHONY : Users/zhouyuhan/Desktop/c/UMAF/umaf.c.i
+Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf.dir/build.make CMakeFiles/umaf.dir/Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.i
+.PHONY : Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.i
 
-Users/zhouyuhan/Desktop/c/UMAF/umaf.s: Users/zhouyuhan/Desktop/c/UMAF/umaf.c.s
-.PHONY : Users/zhouyuhan/Desktop/c/UMAF/umaf.s
+Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.s: Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.s
+.PHONY : Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.s
 
 # target to generate assembly for a file
-Users/zhouyuhan/Desktop/c/UMAF/umaf.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf_1.dir/build.make CMakeFiles/umaf_1.dir/Users/zhouyuhan/Desktop/c/UMAF/umaf.c.s
-.PHONY : Users/zhouyuhan/Desktop/c/UMAF/umaf.c.s
+Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf.dir/build.make CMakeFiles/umaf.dir/Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.s
+.PHONY : Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.s
 
 # Help Target
 help:
@@ -161,10 +161,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... umaf_1"
-	@echo "... Users/zhouyuhan/Desktop/c/UMAF/umaf.o"
-	@echo "... Users/zhouyuhan/Desktop/c/UMAF/umaf.i"
-	@echo "... Users/zhouyuhan/Desktop/c/UMAF/umaf.s"
+	@echo "... umaf"
+	@echo "... Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.o"
+	@echo "... Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.i"
+	@echo "... Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.s"
 .PHONY : help
 
 

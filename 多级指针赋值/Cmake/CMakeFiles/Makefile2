@@ -54,16 +54,16 @@ RM = /Applications/CMake.app/Contents/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/zhouyuhan/Desktop/c/UMAF/Cmake
+CMAKE_SOURCE_DIR = /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/zhouyuhan/Desktop/c/UMAF/Cmake
+CMAKE_BINARY_DIR = /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/umaf_1.dir/all
+all: CMakeFiles/umaf.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -71,34 +71,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/umaf_1.dir/clean
+clean: CMakeFiles/umaf.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/umaf_1.dir
+# Target rules for target CMakeFiles/umaf.dir
 
 # All Build rule for target.
-CMakeFiles/umaf_1.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf_1.dir/build.make CMakeFiles/umaf_1.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf_1.dir/build.make CMakeFiles/umaf_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles --progress-num=1,2 "Built target umaf_1"
-.PHONY : CMakeFiles/umaf_1.dir/all
+CMakeFiles/umaf.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf.dir/build.make CMakeFiles/umaf.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf.dir/build.make CMakeFiles/umaf.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles --progress-num=1,2 "Built target umaf"
+.PHONY : CMakeFiles/umaf.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/umaf_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/umaf_1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles 0
-.PHONY : CMakeFiles/umaf_1.dir/rule
+CMakeFiles/umaf.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/umaf.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles 0
+.PHONY : CMakeFiles/umaf.dir/rule
 
 # Convenience name for target.
-umaf_1: CMakeFiles/umaf_1.dir/rule
-.PHONY : umaf_1
+umaf: CMakeFiles/umaf.dir/rule
+.PHONY : umaf
 
 # clean rule for target.
-CMakeFiles/umaf_1.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf_1.dir/build.make CMakeFiles/umaf_1.dir/clean
-.PHONY : CMakeFiles/umaf_1.dir/clean
+CMakeFiles/umaf.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/umaf.dir/build.make CMakeFiles/umaf.dir/clean
+.PHONY : CMakeFiles/umaf.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

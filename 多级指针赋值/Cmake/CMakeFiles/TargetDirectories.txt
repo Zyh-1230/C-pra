@@ -1,3 +1,3 @@
-/Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles/umaf_1.dir
-/Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles/edit_cache.dir
-/Users/zhouyuhan/Desktop/c/UMAF/Cmake/CMakeFiles/rebuild_cache.dir
+/Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles/umaf.dir
+/Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/多级指针赋值/Cmake/CMakeFiles/rebuild_cache.dir

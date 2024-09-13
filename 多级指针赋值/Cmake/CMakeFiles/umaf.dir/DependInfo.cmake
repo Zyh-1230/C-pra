@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/zhouyuhan/Desktop/c/UMAF/umaf.c" "CMakeFiles/umaf_1.dir/Users/zhouyuhan/Desktop/c/UMAF/umaf.c.o" "gcc" "CMakeFiles/umaf_1.dir/Users/zhouyuhan/Desktop/c/UMAF/umaf.c.o.d"
+  "/Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c" "CMakeFiles/umaf.dir/Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.o" "gcc" "CMakeFiles/umaf.dir/Users/zhouyuhan/Desktop/c/多级指针赋值/umaf.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
