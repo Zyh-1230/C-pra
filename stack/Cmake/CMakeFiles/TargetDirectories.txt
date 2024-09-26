@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/stack/Cmake/CMakeFiles/stack.dir
+/Users/zhouyuhan/Desktop/c/stack/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/stack/Cmake/CMakeFiles/rebuild_cache.dir
