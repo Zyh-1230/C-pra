@@ -1,0 +1,3 @@
+/Users/zhouyuhan/Desktop/c/Quicksort/Cmake/CMakeFiles/qs.dir
+/Users/zhouyuhan/Desktop/c/Quicksort/Cmake/CMakeFiles/edit_cache.dir
+/Users/zhouyuhan/Desktop/c/Quicksort/Cmake/CMakeFiles/rebuild_cache.dir
